@@ -6,5 +6,9 @@ English subtitles (.ass / .srt) for the mini anime series **Maomao no Hitorigoto
 - **Format:** Advanced SubStation Alpha (`.ass`) 
 - Transcribed and translated directly from official Japanese audio/subtitles.
 
+## 🔗 Where to Find Releases
+You can download the full batches and video releases on:
+* **[Google Drive](https://drive.google.com/drive/folders/1BL49Ssase_X3vUNMit0ynAcIRXP6iVMt?usp=drive_link)**
+
 ## ⚖️ Disclaimer
 This repository only contains fan-made subtitle files (`.ass` ). No copyrighted video or audio files are hosted here.
